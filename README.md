@@ -1,6 +1,6 @@
 ### Hi, I'm Md Ramjan Ali 👋
-#### Web Developer
-🚀 About Me
+#### 🚀 About Me
+
 I’m a Front End Web developer who is passionate about creating awesome user interfaces (UI) for client satisfaction. Throughout my educational career, I’ve developed skillsets directly relevant to the Software Engineer. I always try to solve real-world problems with great effort and share knowledge with others. I delight in doing quality work and maintaining excellent communication with others.
 
 <h2 align="left">👨‍💻 Skills & Experiance:</h3>
