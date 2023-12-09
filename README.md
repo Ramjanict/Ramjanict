@@ -11,7 +11,7 @@
 ✅React.js <br>
 ✅ Bootstrap <br>
 ✅Tailwind <br>
-✅ Git <br><br><br>
+✅ Git <br><br>
 
 
 
