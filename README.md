@@ -4,7 +4,7 @@
     <p align="justify">I’m a Front End Web developer who is passionate about creating awesome user interfaces (UI) for client satisfaction. Throughout my educational career, I’ve developed skillsets directly relevant to the Software Engineer. I always try to solve real-world problems with great effort and share knowledge with others. I delight in doing quality work and maintaining excellent communication with others.</p>
     
     <h2 align="left">👨‍💻 Skills & Experiance:</h3>
-        <div display="flex">
+        <div>
             <h2> Front-End Technologies </h2>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     
@@ -23,7 +23,7 @@
             <img width="12" />
         </div>
    
-        <div display="flex">
+        <div>
           <h2>Back-End Technologies</h2>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
           <img width="12" />
@@ -31,13 +31,13 @@
         </div>
   
 
-        <div display="flex">
+        <div>
           <h2>Databases</h2>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
           <img width="12" />
         </div>
     <div>
-      <h2 display="flex">Tools & Platforms</h2>
+      <h2>Tools & Platforms</h2>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
     </div>
 
