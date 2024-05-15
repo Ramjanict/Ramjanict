@@ -1,6 +1,5 @@
-### **I'm Md Ramjan Ali 👋**
-![I am junior full stack developer](https://media.licdn.com/dms/image/D5616AQHWmjmSdcHhQA/profile-displaybackgroundimage-shrink_350_1400/0/1703011923050?e=1721260800&v=beta&t=LMWiCD5ThmSQKbOW_TwYulV0c7N295iNNjBvzIcBG7k)
-### Glad to see you here!  
+![I am full stack developer](https://github.com/mdramjan570/images/blob/master/github.jpg?raw=true)
+### 👋 Glad to see you here!  
   <p align="justify">I'm Ramjan, a Full Stack Web Application Developer with experience in React, Node.js, Express.js, and MongoDB. Passionate about creating scalable and performant web applications. Collaborated with cross-functional teams to deliver high-quality products on tight deadlines</p>
 
 
