@@ -6,15 +6,19 @@
 ### My Skills
 #### Front-End Technologies
 <div>
-  <img src="https://img.shields.io/static/v1?message=HTML&logo=HTML&label=&color=DD4B25&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-<img src="https://img.shields.io/static/v1?message=CSS&logo=CSS&label=&color=4284f5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-<img src="https://img.shields.io/static/v1?message=javascript&logo=javascript&label=&color=E8D44D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-<img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=4284f5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="React logo"  />
-<img src="https://img.shields.io/static/v1?message=redux&logo=redux&label=&color=7248B6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-<img src="https://img.shields.io/static/v1?message=tailwind css&logo=tailwind css&label=&color=36B7F0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-<img src="https://img.shields.io/static/v1?message=bootstrap&logo=bootstrap&label=&color=8512F7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-<img src="https://img.shields.io/static/v1?message=jquery&logo=jquery&label=&color=0865A7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=DD4B25&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HTML logo" />
+  <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=4284f5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CSS logo" />
+  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=E8D44D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="JavaScript logo" />
+  <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=4284f5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="React logo" />
+  <img src="https://img.shields.io/static/v1?message=Next.js&logo=nextdotjs&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Next.js logo" />
+  <img src="https://img.shields.io/static/v1?message=Redux&logo=redux&label=&color=7248B6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Redux logo" />
+  <img src="https://img.shields.io/static/v1?message=Zustand&logo=react&label=&color=593D88&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Zustand logo" />
+  <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=3178C6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TypeScript logo" />
+  <img src="https://img.shields.io/static/v1?message=Tailwind%20CSS&logo=tailwindcss&label=&color=36B7F0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Tailwind CSS logo" />
+  <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=8512F7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Bootstrap logo" />
+  <img src="https://img.shields.io/static/v1?message=jQuery&logo=jquery&label=&color=0865A7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="jQuery logo" />
 </div>
+
 
 #### Back-End Technologies
  <div valign="center">
@@ -23,8 +27,10 @@
   
 #### Databases
 <div>
- <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=0FA54D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MongoDB logo"  />
+  <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=0FA54D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MongoDB logo" />
+  <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&label=&color=31648C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="PostgreSQL logo" />
 </div>
+
 
  #### Tools & Platforms
   <div valign="center">
