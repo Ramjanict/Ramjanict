@@ -1,4 +1,4 @@
-![I am a Full Stack Developer](https://github.com/mdramjan570/Ecommerce/blob/master/GithubRipo.jpg?raw=true)
+![I am a Full Stack Developer](https://res.cloudinary.com/ku04x3pn/image/upload/v1790043173/ramjan.jpg)
 
 ### 👋 Glad to see you here!
 
