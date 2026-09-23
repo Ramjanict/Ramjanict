@@ -1,5 +1,4 @@
-![I am a Full Stack Developer](https://res.cloudinary.com/ku04x3pn/image/upload/v1790043173/ramjan.jpg)
-
+![I am a Full Stack Developer](https://res.cloudinary.com/ku04x3pn/image/upload/v1790141498/github_banner_final.jpg)
 ### 👋 Glad to see you here!
 
 <p align="justify">I'm Ramjan, a Full Stack Developer with 2+ years of professional experience building, deploying, and maintaining modern web applications. Experienced in developing scalable frontend and backend systems using React, TypeScript, Next.js, Node.js, NestJS, PostgreSQL, Prisma, and REST APIs. Skilled in authentication, database design, API development, state management, Docker, CI/CD, and Linux-based deployments. Strong focus on writing maintainable code, solving production issues, and delivering reliable user-facing applications in Agile environments.</p>
